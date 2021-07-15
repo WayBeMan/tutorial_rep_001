@@ -1,0 +1,10 @@
+[book]
+authors = ["Denis Vorkozhokov"]
+language = "en"
+multilingual = false
+src = "src"
+title = "C++ course notes"
+
+[output.html]
+default-theme = "ayu"
+git-repository-url = "https://github.com/ivnalxv/main_page"
